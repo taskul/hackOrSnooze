@@ -1,0 +1,53 @@
+/* Login and signup forms */
+
+.account-form button {
+  width: 4rem;
+  margin-left: 80px;
+}
+
+#signup-form button {
+  width: 8rem;
+}
+
+.account-forms-container {
+  padding-left: 20px;
+}
+
+#user-profile {
+  position: fixed;
+  right: 27%;
+  top: 4%;
+  z-index: 1;
+  width: 140px;
+  height: 270px;
+  background-color: #ff6600;
+}
+
+.user-profile-text {
+  font-size: 0.7rem;
+}
+
+.user-profile-input {
+  width: 70%;
+  margin: 0 10% 0 10%
+}
+
+#save-profile-changes {
+  margin-left: 40px;
+}
+
+#current-user-name {
+  font-size: 1rem;
+  margin-left: 10px;
+}
+
+h4 {
+  margin-left: 5px;
+}
+
+#close-profile {
+  position: relative;
+  left: 120px;
+  margin: 3px 3px 0 0;
+  cursor: pointer;
+}
